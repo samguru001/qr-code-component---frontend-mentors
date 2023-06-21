@@ -1,0 +1,22 @@
+.code{
+    background-color: hsl(0, 0%, 100%);
+    width: 250px;
+    margin: auto;
+    margin-top: 85px;
+    padding: 10px;
+    border-radius: 10px;
+    /* box-shadow:0 0 3px 3px lightblue; */
+
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.font{
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+ 
+}
+ 
